@@ -40,7 +40,7 @@ A sleek and focused **Ghostty** terminal theme inspired by the **Midnight** VSCo
 | **Background**    | `#1e2127`   | Terminal BG              |
 | **Foreground**    | `#d8dee9`   | Main Text                |
 | **Cursor**        | `#d8dee9`   | Cursor                   |
-| **Selection**     | `#434c5e99` | Selection BG             |
+| **Selection**     | `#434c5e`   | Selection BG             |
 | **Black**         | `#272c36`   | ANSI Black               |
 | **Red**           | `#bf616a`   | Errors, Deletions        |
 | **Green**         | `#a3be8c`   | Strings, Insertions      |
